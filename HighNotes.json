@@ -1,4 +1,4 @@
 [
-    {"version": "1.0.2"},
-    {"notes": "Removed dependencie with bob74_ipl"}
+    {"version": "1.0.3"},
+    {"notes": "Fixed an fps drop into the main room."}
 ]
