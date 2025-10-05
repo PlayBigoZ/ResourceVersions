@@ -1,5 +1,5 @@
 [
-    {"version": "1.0.1"},
-    {"notes": "Added Mount Zonah Medical Center files"},
+    {"version": "1.0.2"},
+    {"notes": "Optimized mapdata"},
     {"mandatory": false}
 ]
