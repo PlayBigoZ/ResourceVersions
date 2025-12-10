@@ -1,5 +1,5 @@
 [
-    {"version": "1.0.3"},
-    {"notes": "Optimized mapdata, do the update, this mapdata will stop working in a few days!"},
+    {"version": "1.0.4"},
+    {"notes": "Fixed the high resmon problem."},
     {"mandatory": false}
 ]
