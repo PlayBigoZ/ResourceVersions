@@ -1,5 +1,5 @@
 [
-    {"version": "1.0.5"},
-    {"notes": "Fixed the high resmon problem, New map files."},
+    {"version": "1.0.6"},
+    {"notes": "Fix."},
     {"mandatory": false}
 ]
