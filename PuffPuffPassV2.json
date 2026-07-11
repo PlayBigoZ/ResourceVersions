@@ -1,4 +1,4 @@
 [
-    {"version": "1.0.0"},
-    {"notes": "Map Release."}
+    {"version": "1.0.1"},
+    {"notes": "Fixed issues, And removed places where you could get stuck."}
 ]
